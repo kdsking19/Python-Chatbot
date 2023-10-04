@@ -1,3 +1,4 @@
 # Python-Chatbot 
 
-Hi and this my first project all credit goes to suraj ghosh.
+# Features of the Chat Bot Project
+This is very useful project. This project is used for any Automated Software.
