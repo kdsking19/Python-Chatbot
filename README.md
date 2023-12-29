@@ -9,9 +9,6 @@ A simple Python chatbot project using [library/framework].
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
