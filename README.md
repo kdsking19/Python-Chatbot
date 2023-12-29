@@ -14,7 +14,6 @@ A simple Python chatbot project using [library/framework].
 
 - Feature 1
 - Feature 2
-- ...
 
 ## Installation
 
